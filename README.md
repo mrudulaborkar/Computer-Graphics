@@ -47,6 +47,6 @@ My Programming Assignments -
 
 12. Write a program in Java/ Python to draw a line with line style (Thick, Thin, Dotted).
 
-13.Write a program in Python to draw a concave polygon.
+13. Write a program in Python to draw a concave polygon.
 
 14. Advanced Graphics tool: Maya
